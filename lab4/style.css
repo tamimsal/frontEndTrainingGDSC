@@ -1,0 +1,12 @@
+h2:first-child{
+    color: blue;
+}
+h2:last-child{
+    color: red;
+}
+p:hover{
+    background-color: blue;
+}
+.para{
+    text-align: center;
+}
