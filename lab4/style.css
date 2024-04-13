@@ -10,3 +10,6 @@ p:hover{
 .para{
     text-align: center;
 }
+p:first-child{
+    color: red;
+}
